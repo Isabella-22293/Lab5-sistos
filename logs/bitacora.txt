@@ -1,0 +1,300 @@
+[Mon] Thread 0, iter 0: solicita 2
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 2, iter 0: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 4, iter 0: solicita 2
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Thread 3, iter 0: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 1, iter 0: solicita 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Thread 0, iter 1: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 1, iter 1: solicita 2
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Thread 4, iter 1: solicita 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 0, iter 2: solicita 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Thread 1, iter 2: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Thread 4, iter 2: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 0, iter 3: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Thread 4, iter 3: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 0, iter 4: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Thread 4, iter 4: solicita 2
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 2, iter 1: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Thread 0, iter 5: solicita 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 1, iter 3: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Thread 4, iter 5: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 2, iter 2: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 4, iter 6: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Thread 2, iter 3: solicita 2
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 3, iter 1: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Thread 3, iter 2: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 2, iter 4: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 3, iter 3: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 1 recursos. Quedan 2
+[Mon] Thread 1, iter 4: solicita 3
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Thread 3, iter 4: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Thread 4, iter 7: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Thread 3, iter 5: solicita 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 0, iter 6: solicita 3
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Thread 1, iter 5: solicita 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 2, iter 5: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Thread 4, iter 8: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Consumió 1 recursos. Quedan 1
+[Mon] Devolvió 1 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Thread 2, iter 6: solicita 1
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Consumió 1 recursos. Quedan 1
+[Mon] Devolvió 1 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Thread 4, iter 9: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Devolvió 1 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 2, iter 7: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 1, iter 6: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 0, iter 7: solicita 3
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 1, iter 7: solicita 2
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 3 recursos. Disponibles: 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 2, iter 8: solicita 3
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 3, iter 6: solicita 1
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Thread 0, iter 8: solicita 1
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Thread 2, iter 9: solicita 2
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Thread 0, iter 9: solicita 2
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Thread 1, iter 8: solicita 1
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Esperando 1 recursos. Disponibles: 0
+[Mon] Devolvió 1 recursos. Disponibles: 1
+[Mon] Thread 3, iter 7: solicita 3
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Consumió 1 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Consumió 2 recursos. Quedan 0
+[Mon] Esperando 3 recursos. Disponibles: 0
+[Mon] Devolvió 2 recursos. Disponibles: 2
+[Mon] Esperando 3 recursos. Disponibles: 2
+[Mon] Devolvió 1 recursos. Disponibles: 3
+[Mon] Thread 1, iter 9: solicita 2
+[Mon] Consumió 3 recursos. Quedan 0
+[Mon] Esperando 2 recursos. Disponibles: 0
+[Mon] Devolvió 3 recursos. Disponibles: 3
+[Mon] Thread 3, iter 8: solicita 2
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Esperando 2 recursos. Disponibles: 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Consumió 2 recursos. Quedan 1
+[Mon] Devolvió 2 recursos. Disponibles: 3
+[Mon] Thread 3, iter 9: solicita 1
+[Mon] Consumió 1 recursos. Quedan 2
+[Mon] Devolvió 1 recursos. Disponibles: 3
